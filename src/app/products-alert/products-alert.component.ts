@@ -17,3 +17,4 @@ export class ProductsAlertComponent implements OnInit {
   }
 
 }
+
